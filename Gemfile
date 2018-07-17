@@ -27,8 +27,12 @@ gem 'bootstrap-sass'
 gem 'gibbon'
 gem 'high_voltage'
 gem 'jquery-rails'
-gem "bootsnap", require: false
+# gem "bootsnap", require: false
 group :development do
   gem 'better_errors'
   gem 'rails_layout'
+  gem 'sqlite3'
+end
+group :production do
+  gem 'pg'
 end
