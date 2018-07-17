@@ -1,0 +1,16 @@
+/* the humans responsible & colophon */
+
+
+/* TEAM */
+  Melanie Santos
+  Site:
+  Twitter:
+  Location:
+
+/* THANKS */
+  Daniel Kehoe (@rails_apps) for the RailsApps project
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery
+  Software: Ruby on Rails
